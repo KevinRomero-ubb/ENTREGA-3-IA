@@ -1,6 +1,6 @@
-# IA---EVALUACION-1---PREPARACION-DE-DATOS
+# IA---EVALUACION-3---CLASIFICACION
 Repositorio para la primera evaluación de inteligencia artificial
-# Evaluación 1
+# Evaluación 3
 
 **Integrante 1:** Alan Jean Franco Fica Contreras
 
