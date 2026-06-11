@@ -1,5 +1,5 @@
 # IA---EVALUACION-3---CLASIFICACION
-Repositorio para la primera evaluación de inteligencia artificial
+Repositorio para la tercera evaluación de inteligencia artificial
 # Evaluación 3
 
 **Integrante 1:** Alan Jean Franco Fica Contreras
